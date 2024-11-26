@@ -39,7 +39,7 @@ var sites = {
     "primaryColor" : "#EF3D42",
     "label" : "Lucky",
   },
-  "carrsqc" : {
+  "carrs" : {
     "primaryColor" : "#E41720",
     "label" : "Carrs",
   },
